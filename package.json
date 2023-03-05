@@ -4,8 +4,8 @@
   "description": "Movie recommendation and trailer service.",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "build": "echo 'build script executed'" 
+    "build": "nodemon server.js"
+    
   },
   "author": "Priyanshu Lohar",
   "license": "ISC",
